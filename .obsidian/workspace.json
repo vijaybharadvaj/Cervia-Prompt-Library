@@ -14,16 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "index"
+            }
+          },
+          {
+            "id": "eb50c7fde6694db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta-prompts/prompt-anatomy-guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "prompt-anatomy-guide"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,9 +188,11 @@
   },
   "active": "46302940efb8cfa4",
   "lastOpenFiles": [
-    "meta-prompts/master-meta-prompt.md.md",
-    "meta-prompts/frontmatter-format.md.md",
-    "meta-prompts/cervia-blueprint.md.md",
+    "meta-prompts/master-meta-prompt.md",
+    "meta-prompts/frontmatter-format.md",
+    "index.md",
+    "meta-prompts/prompt-anatomy-guide.md",
+    "meta-prompts/cervia-blueprint.md",
     "Productivity & Life Automation/decision-maker.md",
     "Marketing & Sales/ad-copy.md",
     "Marketing & Sales/landing-page.md",
@@ -188,7 +205,6 @@
     "Image Generation/branding-graphics.md",
     "Writing Prompts/social-media-posts.md",
     "Writing Prompts/blog.md",
-    "meta-prompts/prompt-anatomy-guide.md.md",
     "Personal Development/mindset.md",
     "Personal Development/life-coach.md",
     "Productivity & Life Automation/goal-setting.md",
@@ -198,7 +214,6 @@
     "Video Generation/cinematic-shorts.md",
     "Writing Prompts/email.md",
     "Code Generation & Tooling/tool-generator.md",
-    "index.md.md",
     "Templates",
     "New folder",
     "Personal Development",
