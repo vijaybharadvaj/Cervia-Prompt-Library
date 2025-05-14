@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "34181837d1e32de1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf52064253e724bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26a3d0c8e1e8a075",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "index.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6ed479d2eb783a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f46ec5c4b1bf36d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46302940efb8cfa4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64c8455c5e7951d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f84cf1e5da914cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd889101d09fd85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f7e6ffc422b27f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a0e2f1710c763ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index.md"
+            }
+          },
+          {
+            "id": "300fb3e419261db5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index.md"
+            }
+          },
+          {
+            "id": "e55307908af4b872",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "604863341ece38cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "46302940efb8cfa4",
+  "lastOpenFiles": [
+    "meta-prompts/master-meta-prompt.md.md",
+    "meta-prompts/frontmatter-format.md.md",
+    "meta-prompts/cervia-blueprint.md.md",
+    "Productivity & Life Automation/decision-maker.md",
+    "Marketing & Sales/ad-copy.md",
+    "Marketing & Sales/landing-page.md",
+    "Code Generation & Tooling/python-snippets.md",
+    "Chatbot Agents & AI Workflows/customer-support-agent.md",
+    "Chatbot Agents & AI Workflows/creative-writing-coach.md",
+    "Chatbot Agents & AI Workflows/coding-assistant.md",
+    "Video Generation/animated-explainers.md",
+    "Image Generation/portraits.md",
+    "Image Generation/branding-graphics.md",
+    "Writing Prompts/social-media-posts.md",
+    "Writing Prompts/blog.md",
+    "meta-prompts/prompt-anatomy-guide.md.md",
+    "Personal Development/mindset.md",
+    "Personal Development/life-coach.md",
+    "Productivity & Life Automation/goal-setting.md",
+    "Productivity & Life Automation/daily-planner.md",
+    "Marketing & Sales/sales-email.md",
+    "Image Generation/abstract-art.md",
+    "Video Generation/cinematic-shorts.md",
+    "Writing Prompts/email.md",
+    "Code Generation & Tooling/tool-generator.md",
+    "index.md.md",
+    "Templates",
+    "New folder",
+    "Personal Development",
+    "Untitled 1",
+    "Productivity & Life Automation",
+    "Marketing & Sales",
+    "Code Generation & Tooling",
+    "Chatbot Agents & AI Workflows",
+    "Video Generation",
+    "Image Generation"
+  ]
+}
