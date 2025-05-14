@@ -96,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
@@ -170,11 +169,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26a3d0c8e1e8a075",
+  "active": "46302940efb8cfa4",
   "lastOpenFiles": [
-    "Meta Prompts/frontmatter-format.md",
     "index.md",
+    "Templates/chatbot-agent-template.md",
     "Meta Prompts/master-meta-prompt.md",
+    "Meta Prompts/frontmatter-format.md",
     "Meta Prompts/cervia-blueprint.md",
     "productivity-tools/decision-maker.md",
     "productivity-tools",
@@ -203,7 +203,6 @@
     "Chatbot Agents & AI Workflows/customer-support-agent.md",
     "Chatbot Agents & AI Workflows/coding-assistant.md",
     "Video Generation/animated-explainers.md",
-    "Image Generation/portraits.md",
     "Templates",
     "New folder",
     "Personal Development",
